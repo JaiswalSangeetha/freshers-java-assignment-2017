@@ -1,0 +1,19 @@
+            MENU
+        
+***** STARTERS *****
+
+Potato Skins ------------------ 100
+Aztec Tomato Soup ------------- 100
+Mushrooms con Queso ----------- 100
+Chicken Wings ----------------- 200
+
+***** FOOD ******
+
+Veg Biryani ------------------- 200
+Dal Rice ---------------------- 150
+Chicken Biryani --------------- 250
+Mutton Biryani ---------------- 300
+
+***** SALADS *****
+Russian Salad ----------------- 100
+Chicken Hawaiian Salad -------- 100
